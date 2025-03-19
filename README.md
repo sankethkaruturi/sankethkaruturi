@@ -158,9 +158,6 @@ I encourage you to explore my machine learning and deep learning projects. The l
 &emsp;&emsp; 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
 
 
-
-
-
 ## 🖥 My Competencies
 
 &emsp;&emsp; 🦸 [__Leadership Skills__]()
@@ -177,16 +174,20 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 🦸 [__Time Management__]()
 
+
 ## 🖥 My Blogs On Medium
 
 &emsp;&emsp; 📃 [__Understanding Machine Learning: A Beginner-Friendly Guide__](https://medium.com/@sankethkaruturi09/understanding-machine-learning-a-beginner-friendly-guide-092bb42e4768)
+
 &emsp;&emsp; 📃 [__A Comprehensive Guide to the K-Nearest Neighbors (k-NN) Algorithm__](https://medium.com/@sankethkaruturi09/a-comprehensive-guide-to-the-k-nearest-neighbors-k-nn-algorithm-eaaa90dc25e8)
 
 
 
 ## 🖥 My Kaggle Profile 
 
-&emsp;&emsp; 🔗 
+I'm very familiar with __Kaggle__ - a website that would help __data scientists__ and __machine learning engineers__ to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read others' code as a result of which I get a good understanding of the various ways in which a machine learning project could be implemented. Below is a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks. 
+
+&emsp;&emsp; 🔗 _https://www.kaggle.com/sankethkaruturi7_
 
 ## 🖥 My Resume 
 
