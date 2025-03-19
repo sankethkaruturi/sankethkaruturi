@@ -104,6 +104,14 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
+| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
+| :-:| :-:| 
+| [<img src = "https://github.com/Sankethprasad09/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>]()| [<img src = "https://github.com/Sankethprasad09/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>]()|
+
+<hr style="border:0.01px solid blue">
+
+<h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
+
 | 🗞 [Fake News Prediction]()| 🗣️ [Twitter Sentiment Analysis]() |
 | :-:| :-:| 
 | [<img src = "https://github.com/Sankethprasad09/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/Sankethprasad09/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
@@ -138,6 +146,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 &emsp;&emsp; 🏫 [__Chetan PU college, Hubli__]([https://www.narayanagroup.com](http://www.chetancollege.co.in/)) - *High School*
 
 &emsp;&emsp; 🏫 [__Hari Vidyalaya, Mysore__]([https://vikasconcept.com](https://harividyalaya.in/)) - *Junior High School*
+
 
 ## 🖥 My List of Certifications
 
@@ -187,7 +196,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 I'm very familiar with __Kaggle__ - a website that would help __data scientists__ and __machine learning engineers__ to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read others' code as a result of which I get a good understanding of the various ways in which a machine learning project could be implemented. Below is a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks. 
 
-&emsp;&emsp; 🔗 _https://www.kaggle.com/sankethkaruturi7_
+&emsp;&emsp; 🔗 __https://www.kaggle.com/sankethkaruturi7__
 
 ## 🖥 My Resume 
 
@@ -198,20 +207,22 @@ I'm very familiar with __Kaggle__ - a website that would help __data scientists_
 
 &emsp;&emsp; 📫 __Email:__ __sankethkaruturi09@gmail.com__
 
-&emsp;&emsp; 🖇 __LinkedIn:__
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/sanketh-karuturi__
 
-&emsp;&emsp; 📘 __Facebook:__ 
+&emsp;&emsp; ✍🏻 __Medium:__ __https://medium.com/@sankethkaruturi09__
 
-&emsp;&emsp; ✍🏻 __Medium:__ 
-
-&emsp;&emsp; 💻 __Kaggle:__ 
+&emsp;&emsp; 💻 __Kaggle:__ __https://www.kaggle.com/sankethkaruturi7__
 
 
 ## 📄📉Blogs on Medium:
 
-📝 Furthermore, I also write articles and share my blogs through [__Medium__](https://medium.com/). It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Deep Learning. 
+📝 Furthermore, I also write articles and share my blogs through [__Medium__](https://medium.com/). It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Deep Learning. Below is the link to my Medium articles. https://medium.com/@sankethkaruturi09
+
+
   
 ## 🤖⚙️ My Machine Learning Projects
+
+<img src = "https://github.com/Sankethprasad09/Images/blob/acc6ee5a9b489a5b7673ef6cca409cde7a80f2a7/Animation%20Tech%20GIF%20by%20Butlerm%20(1).gif" width = "750"/>
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with Data Visualization.
 
@@ -225,6 +236,9 @@ In this section, different sets of machine learning projects are highlighted. Fe
 <hr style="border:0.01px solid blue">
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
+
+<img src = "https://github.com/Sankethprasad09/Images/blob/390b56e9852ab8948ab08ba551f9a8a7cd7ffdd1/download%20(1).gif" width = "750"/>
+
 
 __Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
@@ -355,11 +369,9 @@ __Web scraping__ is the process of extracting data from websites. This data can 
 
 🏫 [__Oregon State University (School of Electrical Engineering and Computer Science)__](https://engineering.asu.edu) - *Masters in Computer Science*
 
-I pursued a [Master's in Computer Science] at Oregon State University. It was a great experience where I had a solid understanding of working with machine learning and deep learning principles and paradigms. Furthermore, I was also involved in a project where we as a team had to build an Deep Neural Network in real time. It was a great experience where I learned deep learning principles and learned to work in sprints for a different set of tasks respectively. Furthermore, I also completed the data structures and analysis of algorithms course which allowed me to understand the time complexity of various algorithms which was also influential in my understanding of machine learning algorithms respectively. 
+I pursued a Master's degree in Computer Science at Oregon State University. It was a great experience where I had a solid understanding of working with machine learning and deep learning principles and paradigms. Furthermore, I was also involved in a project where we as a team had to build an Deep Neural Network in real time. It was a great experience where I learned deep learning principles and learned to work in sprints for a different set of tasks respectively. Furthermore, I also completed the data structures and analysis of algorithms course which allowed me to understand the time complexity of various algorithms which was also influential in my understanding of machine learning algorithms respectively. 
 
 <hr style="border:0.01px solid blue">
-
-## 🏅🎖 My List of Certifications
 
 
 ## 🎬🔚 Summary
@@ -368,13 +380,11 @@ These are some of my __projects__, __blogs__ and __certifications__ that I have 
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
-🖇 __LinkedIn:__ 
-
-📹 __YouTube__: 
+🖇 __LinkedIn:__ __https://www.linkedin.com/in/sanketh-karuturi__
 
 📫 __Email:__ __sankethkaruturi09@gmail.com__
 
-✍🏻 __Medium:__ 
+✍🏻 __Medium:__ __https://medium.com/@sankethkaruturi09__
 
 
 😄😄😄😄😄😄😄😄😄😄😄😄
