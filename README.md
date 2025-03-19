@@ -112,9 +112,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
-| 🎋 [Semantic Segmentation of Satellite Images using U-Net]()| 🔢 [MNIST Digits Classification]()| 
+| 🎋 [Semantic Segmentation of Satellite Images using U-Net]()| 🔢 [Wheat Disease Detection Using Transfer Learning]()| 
 | :-:| :-:| 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/5b9c6fe5dd207669176b66510a3dae53314c57e3/image-25-768x512.jpeg" height = 300 width = 500/>]()| [<img src = "https://github.com/Sankethprasad09/Images/blob/bae5483b82b8372f8d98671191b8eabb588630dd/MNIST_dataset_example.png" height = 300 width = 500/>]()|
+| [<img src = "https://github.com/Sankethprasad09/Images/blob/5b9c6fe5dd207669176b66510a3dae53314c57e3/image-25-768x512.jpeg" height = 300 width = 500/>]()| [<img src = "https://github.com/Sankethprasad09/Images/blob/1db5fe5b8215db3430002342e357e8bd40324cf2/polina-rytova-1dGMs4hhcVA-unsplash.jpg" height = 300 width = 500/>]()|
 
 <hr style="border:0.01px solid blue">
 
