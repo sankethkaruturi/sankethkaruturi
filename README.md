@@ -2,19 +2,19 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketh-karuturi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFZmCwWeRMa81sHbv9Qg6w%3D%3D) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sankethkaruturi)  [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Sanketh-Karuturi-1) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nMEzDt8v) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******940?pwd=ngSO2tbJnugrEmkE9w2iJTbc5OZvbb.1) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/yqb-dyvf-rfm) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+14582728625)
 
-I'm passionate about  __Artificial Intelligence__,  __Machine Learning__, __Deep Learning__, __Large Language Models (LLMs)__ and __Generative AI__. 
+I'm deeply passionate about  __Artificial Intelligence__,  __Machine Learning__, __Deep Learning__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
-The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
+The fast-paced growth in computational capabilities, combined with the accessibility of massive datasets, continues to drive groundbreaking progress in the AI landscape.
 
 ![](  )
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I hold a Masters Degree in Computer Science at [__Oregon State University__](https://oregonstate.edu/).
+I earned my Masters Degree in Computer Science at [__Oregon State University__](https://oregonstate.edu/).
 
-I have *2 years* of experience building and deploying __machine learning__ and __deep learning models__. 
+I bring 2 years of hands-on experience in designing, training, and deploying __machine learning__ and __deep learning models__.
 
-Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
+In addition, I have a solid foundation—both theoretical and practical—in developing and deploying Large Language Models (LLMs) and working on Generative AI projects.
 
 🔭 Below are some of the companies I have worked:
 
@@ -34,13 +34,20 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Support Vector Machines (SVM)*
 * *Decision Trees (DT)*
 * *Random Forests (RF)*
+* *Naive Bayes (NB)*
+* *Gradient Boosting Machines (GBM)*
+* *XGBoost*
+* *Ridge/Lasso/ElasticNet Regression*
+* *Stochastic Gradient Descent (SGDClassifier/Regressor)*
+* *AdaBoost*
 * *K-Nearest Neighbors (KNN)*
+* *Gaussian Mixture Models (GMM)*
+* *Principal Component Analysis (PCA)*
+* *t-Distributed Stochastic Neighbor Embedding (t-SNE)*
+* *Autoencoders*
 * *Deep Neural Networks*
 * *Convolutional Neural Networks (CNN)*
 * *Recurrent Neural Networks (RNN)*
-* *Naive Bayes (NB)*
-* *Gradient Boosted Decision Trees (GBDT)*
-* *XGBoost*
 * *Long Short-Term Memory (LSTM)*
 
 🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
@@ -48,21 +55,23 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Auto-Regressive (AR) Model*
 * *Auto-Regressive Moving Averages (ARMA) Model*
 * *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
+* *Vector AutoRegression (VAR)*
 * *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
 * *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
+* *Temporal Fusion Transformers (TFT)*
 
 🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
 
 * *Langchain*
 * *LangGraph*
-* *Retrieval Augmented Generation (RAG)*
 * *Llama Index*
-* *OpenAI API*
+* *Retrieval Augmented Generation (RAG)*
+* *OpenAI API (ChatGPT, Whisper, DALL·E, etc.)*
+* *HuggingFace Transformers*
 * *Mixtral (LLM)*
-* *Llama 2 (LLM)*
-* *GPT - 3 (LLM)*
-* *GPT - 3.5 (LLM)*
-* *GPT - 4 (LLM)*
+* *LLaMA 2 / LLaMA 3 (Meta AI)*
+* *GPT-4 / GPT-4o / GPT-o1*
+* *Gemini (Google DeepMind)*
 
 🔭 Here are some of the skillsets in regards to __DevOps__ technologies:
 
@@ -70,19 +79,22 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Docker-Compose*
 * *Kubernetes*
 * *Linux*
+* *Jenkins*
 * *Windows Subsystem for Linux (WSL)*
 * *Travis CI*
 * *Ubuntu*
 * *GitLab CI/CD*
+* *MLflow (ML model lifecycle)*
+* *AWS / GCP / Azure DevOps*
 
 ![]()
 
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
+These tools and frameworks have significantly contributed to my ability to understand and implement complex machine learning systems.
 
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html)[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html)[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
 ## 🎬📠 My GitHub Summary: 
 
@@ -104,7 +116,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
+| 🏚 [Airbnb House Prices Prediction](https://github.com/Sankethprasad09/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [☎️ __Telco Customer Churn Prediction__]()|
 | :-:| :-:| 
 | [<img src = "https://github.com/Sankethprasad09/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>]()| [<img src = "https://github.com/Sankethprasad09/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>]()|
 
@@ -114,7 +126,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 | 🗞 [Fake News Prediction]()| 🗣️ [Twitter Sentiment Analysis]() |
 | :-:| :-:| 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/Sankethprasad09/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
+| [<img src = "https://github.com/Sankethprasad09/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/Sankethprasad09/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Fake%20News%20Detection)| [<img src="https://github.com/Sankethprasad09/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/Sankethprasad09/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Twitter%20Sentiment%20Analysis)|
 
 <hr style="border:0.01px solid blue">
 
@@ -126,6 +138,19 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <hr style="border:0.01px solid blue">
 
+<h2 align = "center"> 🖥 My Web Scraping Projects</h2>
+
+| 🍿 [IMDB Movies Web Scraping](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/IMDB%20web%20scraping%20.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Recipes%20XML%20querying.ipynb)|
+| :-: | :-: | 
+| [<img src = "https://github.com/Sankethprasad09/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/bucharest-romania-july-30th-2024-top-10-list-trendy-movies-imdb-page.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/IMDB%20web%20scraping%20.ipynb) | [<img src = "https://github.com/Sankethprasad09/Images/blob/5a7e0e14475ad0e85a724510e2ff37943d3124b8/top-view-delicious-cooked-vegetables-sliced-with-different-seasonings-dark-background-soup-food-sauce-meal-vegetable.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Recipes%20XML%20querying.ipynb)|
+
+| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)| 🔐 [JSON file Web Scraping](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Json%20File%20Reading%20.ipynb) |
+| :-: | :-: | 
+| [<img src = "https://github.com/Sankethprasad09/Images/blob/fc09e9ba6264507e1219f0901944575bb17102ba/2149829151.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) | [<img src = "https://github.com/Sankethprasad09/Images/blob/5a7e0e14475ad0e85a724510e2ff37943d3124b8/programming-background-collage.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Json%20File%20Reading%20.ipynb)|
+
+<hr style="border:0.01px solid blue">
+
+
 ## 🖥 My Work Experience 
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__UHDS Student Employee__]() | [__Oregon State University__](https://oregonstate.edu/) [*October 2022 - March 2025*]
@@ -134,7 +159,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Digital Marketing Manager__]() | [__Spitel Private Limited__]() [*June 2020 - December 2020*]
 
-&emsp;&emsp; 🧪👨‍🔬 [__AI Intern__]() | [__Khoury College of Computer Sciences__]() [*January 2020 - March 2020*]
+&emsp;&emsp; 🧪👨‍🔬 [__AI Intern__]() | [__AEQUS Aerospace__]() [*January 2020 - March 2020*]
 
 
 ## 🖥 My Education 
@@ -143,9 +168,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 🏫 [__KLE Technological University, Hubli__]([http://www.vnrvjiet.ac.in/](https://www.kletech.ac.in/)) - *B.Tech in Mechanical Engineering*
 
-&emsp;&emsp; 🏫 [__Chetan PU college, Hubli__]([https://www.narayanagroup.com](http://www.chetancollege.co.in/)) - *High School*
+&emsp;&emsp; 🏫 [__Chetan PU college, Hubli__]([https://www.narayanagroup.com](http://www.chetancollege.co.in/)) - *Pre-University College*
 
-&emsp;&emsp; 🏫 [__Hari Vidyalaya, Mysore__]([https://vikasconcept.com](https://harividyalaya.in/)) - *Junior High School*
+&emsp;&emsp; 🏫 [__Hari Vidyalaya, Mysore__]([https://vikasconcept.com](https://harividyalaya.in/)) - *High School*
 
 
 ## 🖥 My List of Certifications
@@ -194,13 +219,13 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 ## 🖥 My Kaggle Profile 
 
-I'm very familiar with __Kaggle__ - a website that would help __data scientists__ and __machine learning engineers__ to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read others' code as a result of which I get a good understanding of the various ways in which a machine learning project could be implemented. Below is a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks. 
+I'm very familiar with __Kaggle__ - a website that would help __machine learning__ and __deep learning engineers__ to explore the enomorous amount of data and perform machine learning and deep learning predictions. I take my time to go through the kaggle projects which gives me a good idea about the working of deep learning models. Furthermore, I would read others' code as a result of which I get a good understanding of the various ways in which a deep learning project could be implemented. Below is a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks. 
 
 &emsp;&emsp; 🔗 __https://www.kaggle.com/sankethkaruturi7__
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Sanketh_Karuturi_Resume__]()
+&emsp;&emsp; 📄 [__Deep Learning Resume__](https://github.com/Sankethprasad09/My-Portfolio/blob/0f09371361ee13a151344acd5456a33938c4df03/Sanketh%20Karuturi%20Resume.pdf)
 
 
 ## 🖥 My Contact Information
@@ -218,11 +243,10 @@ I'm very familiar with __Kaggle__ - a website that would help __data scientists_
 
 📝 Furthermore, I also write articles and share my blogs through [__Medium__](https://medium.com/). It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Deep Learning. Below is the link to my Medium articles. https://medium.com/@sankethkaruturi09
 
-
   
 ## 🤖⚙️ My Machine Learning Projects
 
-<img src = "https://github.com/Sankethprasad09/Images/blob/acc6ee5a9b489a5b7673ef6cca409cde7a80f2a7/Animation%20Tech%20GIF%20by%20Butlerm%20(1).gif" width = "750"/>
+<img src = "https://github.com/Sankethprasad09/Images/blob/02433824a1aee5439bdcbf5c70405897789a4b49/Machine%20Learning%20Ai%20GIF%20by%20GIGABYTE%20Technology.gif" width = "750"/>
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with Data Visualization.
 
@@ -272,6 +296,8 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 ## 👀👁 My Computer Vision Projects
 
+<img  src = "https://github.com/Sankethprasad09/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/download%20(2).gif" width = "750" />
+
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
 Computer vision offers immense potential and high demand due to its wide range of applications. The abundance of image and video data creates numerous opportunities for leveraging computer vision tools effectively. Here, I present a selection of intriguing projects I have personally undertaken in the field of computer vision.
@@ -293,14 +319,6 @@ Computer vision offers immense potential and high demand due to its wide range o
 * The repository contains an MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross-entropy loss as the metric for getting the best configuration.
 
-<hr style="border:0.01px solid blue">
-
-🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__]
-
-* This is a simple project to implement Convolutional Neural Network and note its working.
-* Different layer sizes and different kernels are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
-* There are different kernel sizes considered and outputs are noted using a graph respectively.
-* By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
 
 ## 🕸🔨My Web Scraping Projects
 
@@ -334,15 +352,7 @@ __Web scraping__ is the process of extracting data from websites. This data can 
 * It was very interesting to work with the data and understand the games that were in high demand.
  
 <hr style="border:0.01px solid blue">
- 
-🎒 [__University Instructors Information Scraping__]
 
-* It would also be very interesting to know the demand for various professors in different departments.
-* Scraping the information and understanding the demand along with other features could give us a good idea overall about a professor and their teachings.
-* The files which were used for performing the web scraping were __XML__ files and various libraries were used in the process.
- 
-<hr style="border:0.01px solid blue">
- 
 🔐 [__JSON file Web Scraping__]  
 
 * There could be many websites that give __APIs__ to implement their work.
