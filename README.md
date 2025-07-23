@@ -12,7 +12,7 @@ The fast-paced growth in computational capabilities, combined with the accessibi
 
 I earned my Masters Degree in Computer Science at [__Oregon State University__](https://oregonstate.edu/).
 
-I bring 2 years of hands-on experience in designing, training, and deploying __machine learning__ and __deep learning models__.
+I bring 3+ years of hands-on experience in designing, training, and deploying __machine learning__ and __deep learning models__.
 
 In addition, I have a solid foundation—both theoretical and practical—in developing and deploying Large Language Models (LLMs) and working on Generative AI projects.
 
