@@ -1,4 +1,4 @@
- <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Sanketh Karuturi 👋</h1>
+ <h1 align = "center"><img src="https://github.com/sankethkaruturi/Images/blob/dbf70d3bc3796ce972a3f56795c25aa0958fbc2c/animat-campfire-color.gif" width="75" />Hi there, I'm Sanketh Karuturi 👋</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketh-karuturi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFZmCwWeRMa81sHbv9Qg6w%3D%3D) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sankethkaruturi)  [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Sanketh-Karuturi-1) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nMEzDt8v) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******940?pwd=ngSO2tbJnugrEmkE9w2iJTbc5OZvbb.1) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/yqb-dyvf-rfm) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+14582728625)
 
@@ -18,14 +18,16 @@ In addition, I have a solid foundation—both theoretical and practical—in dev
 
 🔭 Below are some of the companies I have worked:
 
-* *BEML( Bharat Earth Movers Limited), Ministry of Defence*
-* *Spitel Private Limited*
-* *AEQUS Aerospace*
+* *Discovery Analytics Inc, Atlanta, Georgia, USA*
+* *Oregon State University, Corvallis, Oregon, USA*
+* *Pentachrome Technologies Pvt Ltd, Bengaluru, Karnataka, India*
+* *AEQUS Aerospace, Belagavi, Karnataka, India*
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 * *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
+* *Python for Time Series Data Analysis by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
@@ -34,20 +36,13 @@ In addition, I have a solid foundation—both theoretical and practical—in dev
 * *Support Vector Machines (SVM)*
 * *Decision Trees (DT)*
 * *Random Forests (RF)*
-* *Naive Bayes (NB)*
-* *Gradient Boosting Machines (GBM)*
-* *XGBoost*
-* *Ridge/Lasso/ElasticNet Regression*
-* *Stochastic Gradient Descent (SGDClassifier/Regressor)*
-* *AdaBoost*
 * *K-Nearest Neighbors (KNN)*
-* *Gaussian Mixture Models (GMM)*
-* *Principal Component Analysis (PCA)*
-* *t-Distributed Stochastic Neighbor Embedding (t-SNE)*
-* *Autoencoders*
 * *Deep Neural Networks*
 * *Convolutional Neural Networks (CNN)*
 * *Recurrent Neural Networks (RNN)*
+* *Naive Bayes (NB)*
+* *Gradient Boosted Decision Trees (GBDT)*
+* *XGBoost*
 * *Long Short-Term Memory (LSTM)*
 
 🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
@@ -70,7 +65,8 @@ In addition, I have a solid foundation—both theoretical and practical—in dev
 * *HuggingFace Transformers*
 * *Mixtral (LLM)*
 * *LLaMA 2 / LLaMA 3 (Meta AI)*
-* *GPT-4 / GPT-4o / GPT-o1*
+* *GPT-4.5 / GPT-4o / GPT-o1*
+* *Claude Opus 4*
 * *Gemini (Google DeepMind)*
 
 🔭 Here are some of the skillsets in regards to __DevOps__ technologies:
@@ -106,19 +102,27 @@ These tools and frameworks have significantly contributed to my ability to under
 
 I encourage you to explore my machine learning and deep learning projects. The links are provided below, along with detailed descriptions at the bottom of this website. 
 
-<img src = "https://github.com/Sankethprasad09/Images/blob/ff179c14b50a4b6cd913f79c9bef0d2916edec42/kari-shea-1SAnrIxw5OY-unsplash.jpg">
+<img src = "https://github.com/sankethkaruturi/Images/blob/ff179c14b50a4b6cd913f79c9bef0d2916edec42/kari-shea-1SAnrIxw5OY-unsplash.jpg">
 
 <h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
-| 🤖 [LLM AI Chatbot using RAG ](https://github.com/Sankethprasad09/Images/blob/63f99a65f1640ada7741890d8295933fad96ff35/ant-rozetsky-TXzdrCTdggE-unsplash.jpg)|
+| 🤖 [LLM AI Chatbot using RAG ](https://github.com/sankethkaruturi/Images/blob/63f99a65f1640ada7741890d8295933fad96ff35/ant-rozetsky-TXzdrCTdggE-unsplash.jpg)|
 | :-:| 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/63f99a65f1640ada7741890d8295933fad96ff35/ant-rozetsky-TXzdrCTdggE-unsplash.jpg" width = 500 height = 300/>]()| 
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/63f99a65f1640ada7741890d8295933fad96ff35/ant-rozetsky-TXzdrCTdggE-unsplash.jpg" width = 500 height = 300/>]()| 
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🏚 [Airbnb House Prices Prediction](https://github.com/Sankethprasad09/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [☎️ __Telco Customer Churn Prediction__]()|
+| 🏚 [Airbnb House Prices Prediction](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [☎️ __Telco Customer Churn Prediction__]()|
 | :-:| :-:| 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>]()| [<img src = "https://github.com/Sankethprasad09/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>]()|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>]()| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>]()|
+
+| 🏦 [Predicting Loan Default](  )| 🫀 [Heart Disease Prediction](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/bc6a2d5d1d26ef40a66334fcc59ae37fc9432208/Loan_default_prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/sankethkaruturi/Images/blob/96e50dfae3f39dcb55ce1777282a696d9e134990/Heart_disease_Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
+
+| 🚴‍ [Washington Bike Demand Prediction](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/2a07c945cf30e5d925877768cff1925ba2c49feb/Washington%20Bike%20Demand%20Prediction)| 🚙 [Car Prices Prediction](https://github.com/sankethkaruturi/Car-Price-Prediction.git)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/bdaba15a7d48fc1ba574c90ac48f928119dd80e9/bike_demand_image.jpg" width = 500 height = 300/>](    )| [<img src="https://github.com/sankethkaruturi/Images/blob/0d10d3cd41a25ae5d9da916c0aabada35fe38616/car_price_prediction_image.jpg" width = 500 height = 300/>](    )
 
 <hr style="border:0.01px solid blue">
 
@@ -126,7 +130,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 | 🗞 [Fake News Prediction]()| 🗣️ [Twitter Sentiment Analysis]() |
 | :-:| :-:| 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/Sankethprasad09/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Fake%20News%20Detection)| [<img src="https://github.com/Sankethprasad09/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/Sankethprasad09/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Twitter%20Sentiment%20Analysis)|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Fake%20News%20Detection)| [<img src="https://github.com/sankethkaruturi/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Twitter%20Sentiment%20Analysis)|
 
 <hr style="border:0.01px solid blue">
 
@@ -134,19 +138,19 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 | 🎋 [Semantic Segmentation of Satellite Images using U-Net]()| 🔢 [Wheat Disease Detection Using Transfer Learning]()| 
 | :-:| :-:| 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/5b9c6fe5dd207669176b66510a3dae53314c57e3/image-25-768x512.jpeg" height = 300 width = 500/>]()| [<img src = "https://github.com/Sankethprasad09/Images/blob/1db5fe5b8215db3430002342e357e8bd40324cf2/polina-rytova-1dGMs4hhcVA-unsplash.jpg" height = 300 width = 500/>]()|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/5b9c6fe5dd207669176b66510a3dae53314c57e3/image-25-768x512.jpeg" height = 300 width = 500/>]()| [<img src = "https://github.com/sankethkaruturi/Images/blob/1db5fe5b8215db3430002342e357e8bd40324cf2/polina-rytova-1dGMs4hhcVA-unsplash.jpg" height = 300 width = 500/>]()|
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Web Scraping Projects</h2>
 
-| 🍿 [IMDB Movies Web Scraping](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/IMDB%20web%20scraping%20.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Recipes%20XML%20querying.ipynb)|
+| 🍿 [IMDB Movies Web Scraping](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/IMDB%20web%20scraping%20.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Recipes%20XML%20querying.ipynb)|
 | :-: | :-: | 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/bucharest-romania-july-30th-2024-top-10-list-trendy-movies-imdb-page.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/IMDB%20web%20scraping%20.ipynb) | [<img src = "https://github.com/Sankethprasad09/Images/blob/5a7e0e14475ad0e85a724510e2ff37943d3124b8/top-view-delicious-cooked-vegetables-sliced-with-different-seasonings-dark-background-soup-food-sauce-meal-vegetable.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Recipes%20XML%20querying.ipynb)|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/bucharest-romania-july-30th-2024-top-10-list-trendy-movies-imdb-page.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/IMDB%20web%20scraping%20.ipynb) | [<img src = "https://github.com/sankethkaruturi/Images/blob/5a7e0e14475ad0e85a724510e2ff37943d3124b8/top-view-delicious-cooked-vegetables-sliced-with-different-seasonings-dark-background-soup-food-sauce-meal-vegetable.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Recipes%20XML%20querying.ipynb)|
 
-| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)| 🔐 [JSON file Web Scraping](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Json%20File%20Reading%20.ipynb) |
+| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)| 🔐 [JSON file Web Scraping](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Json%20File%20Reading%20.ipynb) |
 | :-: | :-: | 
-| [<img src = "https://github.com/Sankethprasad09/Images/blob/fc09e9ba6264507e1219f0901944575bb17102ba/2149829151.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) | [<img src = "https://github.com/Sankethprasad09/Images/blob/5a7e0e14475ad0e85a724510e2ff37943d3124b8/programming-background-collage.jpg" width = 500 height = 300/>](https://github.com/Sankethprasad09/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Json%20File%20Reading%20.ipynb)|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/fc09e9ba6264507e1219f0901944575bb17102ba/2149829151.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) | [<img src = "https://github.com/sankethkaruturi/Images/blob/5a7e0e14475ad0e85a724510e2ff37943d3124b8/programming-background-collage.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Web-Scraping-Projects/blob/54863c0023e166b1b28452b7821d396ed8aea6ae/Json%20File%20Reading%20.ipynb)|
 
 <hr style="border:0.01px solid blue">
 
@@ -225,7 +229,7 @@ I'm very familiar with __Kaggle__ - a website that would help __machine learning
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Deep Learning Resume__](https://github.com/Sankethprasad09/My-Portfolio/blob/0f09371361ee13a151344acd5456a33938c4df03/Sanketh%20Karuturi%20Resume.pdf)
+&emsp;&emsp; 📄 [__Deep Learning Resume__](https://github.com/sankethkaruturi/My-Portfolio/blob/0f09371361ee13a151344acd5456a33938c4df03/Sanketh%20Karuturi%20Resume.pdf)
 
 
 ## 🖥 My Contact Information
@@ -246,7 +250,7 @@ I'm very familiar with __Kaggle__ - a website that would help __machine learning
   
 ## 🤖⚙️ My Machine Learning Projects
 
-<img src = "https://github.com/Sankethprasad09/Images/blob/02433824a1aee5439bdcbf5c70405897789a4b49/Machine%20Learning%20Ai%20GIF%20by%20GIGABYTE%20Technology.gif" width = "750"/>
+<img src = "https://github.com/sankethkaruturi/Images/blob/02433824a1aee5439bdcbf5c70405897789a4b49/Machine%20Learning%20Ai%20GIF%20by%20GIGABYTE%20Technology.gif" width = "750"/>
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with Data Visualization.
 
@@ -261,7 +265,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
 
-<img src = "https://github.com/Sankethprasad09/Images/blob/390b56e9852ab8948ab08ba551f9a8a7cd7ffdd1/download%20(1).gif" width = "750"/>
+<img src = "https://github.com/sankethkaruturi/Images/blob/390b56e9852ab8948ab08ba551f9a8a7cd7ffdd1/download%20(1).gif" width = "750"/>
 
 
 __Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
@@ -296,7 +300,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 ## 👀👁 My Computer Vision Projects
 
-<img  src = "https://github.com/Sankethprasad09/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/download%20(2).gif" width = "750" />
+<img  src = "https://github.com/sankethkaruturi/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/download%20(2).gif" width = "750" />
 
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
@@ -373,7 +377,7 @@ __Web scraping__ is the process of extracting data from websites. This data can 
 
 ## 📖🧑‍ My Education
 
-<img src = "https://github.com/Sankethprasad09/Images/blob/a30e27740f46b3f70dce31cde9a27edd0104733e/blossoms-2200.jpg" width = "750"/>
+<img src = "https://github.com/sankethkaruturi/Images/blob/a30e27740f46b3f70dce31cde9a27edd0104733e/blossoms-2200.jpg" width = "750"/>
 
 <hr style="border:0.01px solid blue">
 
