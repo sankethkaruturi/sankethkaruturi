@@ -112,17 +112,17 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🏚 [Airbnb House Prices Prediction](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [☎️ __Telco Customer Churn Prediction__]()|
+| 🏚 [Airbnb House Prices Prediction](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>]()| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>]()|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
 
-| 🏦 [Predicting Loan Default](  )| 🫀 [Heart Disease Prediction](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)|
+| 🏦 [Predicting Loan Default](https://github.com/sankethkaruturi/Loan-Default-Prediction.git)| 🫀 [Heart Disease Prediction](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/bc6a2d5d1d26ef40a66334fcc59ae37fc9432208/Loan_default_prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/sankethkaruturi/Images/blob/96e50dfae3f39dcb55ce1777282a696d9e134990/Heart_disease_Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/bc6a2d5d1d26ef40a66334fcc59ae37fc9432208/Loan_default_prediction.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Loan-Default-Prediction.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/96e50dfae3f39dcb55ce1777282a696d9e134990/Heart_disease_Prediction.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/2a07c945cf30e5d925877768cff1925ba2c49feb/Washington%20Bike%20Demand%20Prediction)| 🚙 [Car Prices Prediction](https://github.com/sankethkaruturi/Car-Price-Prediction.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/bdaba15a7d48fc1ba574c90ac48f928119dd80e9/bike_demand_image.jpg" width = 500 height = 300/>](    )| [<img src="https://github.com/sankethkaruturi/Images/blob/0d10d3cd41a25ae5d9da916c0aabada35fe38616/car_price_prediction_image.jpg" width = 500 height = 300/>](    )
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/bdaba15a7d48fc1ba574c90ac48f928119dd80e9/bike_demand_image.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/2a07c945cf30e5d925877768cff1925ba2c49feb/Washington%20Bike%20Demand%20Prediction)| [<img src="https://github.com/sankethkaruturi/Images/blob/0d10d3cd41a25ae5d9da916c0aabada35fe38616/car_price_prediction_image.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Car-Price-Prediction.git)
 
 <hr style="border:0.01px solid blue">
 
