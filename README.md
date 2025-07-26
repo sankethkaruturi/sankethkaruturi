@@ -144,6 +144,15 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-:| :-:| 
 | [<img src = "https://github.com/sankethkaruturi/Images/blob/5b9c6fe5dd207669176b66510a3dae53314c57e3/image-25-768x512.jpeg" height = 300 width = 500/>]()| [<img src = "https://github.com/sankethkaruturi/Images/blob/1db5fe5b8215db3430002342e357e8bd40324cf2/polina-rytova-1dGMs4hhcVA-unsplash.jpg" height = 300 width = 500/>]()|
 
+| 🔢 [MNIST Digits Classification](https://github.com/sankethkaruturi/MNIST-Digits-Classification.git)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/sankethkaruturi/Convolutional-Neural-Network-CNN-Implementation-using-Keras.git)|
+| :-:| :-:|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/719248b514cae8482b3a3cdaa07f9e21d57c9c04/MNIST%20Digits%20Classification/MNIST_Digits.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/MNIST-Digits-Classification.git)| [<img src="https://github.com/sankethkaruturi/Images/blob/26ec5cf737f8c026e0229d8fdafa61c65cbb795a/Convolutional%20Neural%20Network/CNN.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Convolutional-Neural-Network-CNN-Implementation-using-Keras.git)|
+
+| 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/sankethkaruturi/Wheat-Localization-with-CNN-s.git)| 🥄 [Steel Defect Detection](https://github.com/sankethkaruturi/Steel-Defect-Detection-.git)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/8f6e2619029165d3be3de260c24b9dc8df19a88c/Project%20Thumbnails/WL.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Wheat-Localization-with-CNN-s.git)| [<img src="https://github.com/sankethkaruturi/Images/blob/8cde2559ae4ef2a0859500f51172ba1aa6ea4f13/Project%20Thumbnails/STDFD.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Steel-Defect-Detection-.git)|
+
+
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Web Scraping Projects</h2>
