@@ -112,9 +112,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🏚 [Airbnb House Prices Prediction](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
+| 🏚 [Airbnb House Prices Prediction](https://github.com/sankethkaruturi/Airbnb-House-Price-Prediction-.git)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Machine-Learning-Projects-/tree/1fba2aeec095757af5ee4dcc90875ad9ebce3829/Airbnb%20House%20Price%20Prediction)| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/clay-banks-kiv1ggvkgQk-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Airbnb-House-Price-Prediction-.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
 
 | 🏦 [Predicting Loan Default](https://github.com/sankethkaruturi/Loan-Default-Prediction.git)| 🫀 [Heart Disease Prediction](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)|
 | :-:| :-:| 
