@@ -128,9 +128,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
 
-| 🗞 [Fake News Prediction](https://github.com/sankethkaruturi/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Fake%20News%20Detection)| 🗣️ [Twitter Sentiment Analysis](https://github.com/sankethkaruturi/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Twitter%20Sentiment%20Analysis) |
+| 🗞 [Fake News Prediction](https://github.com/sankethkaruturi/Fake-News-Detection.git)| 🗣️ [Twitter Sentiment Analysis](https://github.com/sankethkaruturi/Twitter-Sentiment-Analysis.git) |
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Fake%20News%20Detection)| [<img src="https://github.com/sankethkaruturi/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Deep-Learning-Projects/tree/2538177450b6b8523174828cfcc82bdee4544f54/NLP(Natural%20Language%20Processing)/Twitter%20Sentiment%20Analysis)|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/1cd9392cc60e7eff76f86b29a77abd22e990fecd/hartono-creative-studio-HQhgbdwHmSM-unsplash.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Fake-News-Detection.git)| [<img src="https://github.com/sankethkaruturi/Images/blob/96168d458a5779309160e2b170ea6035997fc7fb/boliviainteligente-FnWQJfyB-TA-unsplash.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Twitter-Sentiment-Analysis.git)|
 
 | 📚 [Predicting Readability of Texts](https://github.com/sankethkaruturi/Predicting-Readability-of-Texts-Using-Machine-Learning.git)| 🔎 [Automated Essay Scoring with Transformers](https://github.com/sankethkaruturi/Automated-Essay-Scoring-AES-Using-Transformers.git)|
 | :-:| :-:| 
