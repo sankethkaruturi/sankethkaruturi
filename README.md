@@ -170,24 +170,24 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__UHDS Student Employee__]() | [__Oregon State University__](https://oregonstate.edu/) [*October 2022 - March 2025*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Generative AI Engineer__]() | [__Discovery Analytics__]() [*June 2025 - Present*]
 
-&emsp;&emsp; 🏢👨‍💻 [__AI\ML Apprentice Engineer__]() | [__BEML(Bharat Earth Movers Limited), Ministry of Defence__](https://www.nvidia.com/en-in/) [*December 2020 - November 2021*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__UIT(University IT Dept) Student Employee__]() | [__Oregon State University__](https://oregonstate.edu/) [*October 2022 - March 2025*]
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Digital Marketing Manager__]() | [__Spitel Private Limited__]() [*June 2020 - December 2020*]
+&emsp;&emsp; 🏢👨‍💻 [__Machine Learning Engineer__]() | [__Pentachrome Technologies Private Limited, Client: KPIT__](https://www.kpit.com/) [*August 2019 - August 2022*]
 
-&emsp;&emsp; 🧪👨‍🔬 [__AI Intern__]() | [__AEQUS Aerospace__]() [*January 2020 - March 2020*]
+&emsp;&emsp; 🧪👨‍🔬 [__AI Intern__]() | [__AEQUS Aerospace__](https://www.aequs.com/) [*January 2020 - March 2020*]
 
 
 ## 🖥 My Education 
 
 &emsp;&emsp; 🏫 [__Oregon State University__](https://oregonstate.edu/) - *Masters in Computer Science*
 
-&emsp;&emsp; 🏫 [__KLE Technological University, Hubli__]([http://www.vnrvjiet.ac.in/](https://www.kletech.ac.in/)) - *B.Tech in Mechanical Engineering*
+&emsp;&emsp; 🏫 [__KLE Technological University, Hubli__]([http://www.vnrvjiet.ac.in/](https://www.kletech.ac.in/)) - *Bachelor of Engineering*
 
 &emsp;&emsp; 🏫 [__Chetan PU college, Hubli__]([https://www.narayanagroup.com](http://www.chetancollege.co.in/)) - *Pre-University College*
 
-&emsp;&emsp; 🏫 [__Hari Vidyalaya, Mysore__]([https://vikasconcept.com](https://harividyalaya.in/)) - *High School*
+&emsp;&emsp; 🏫 [__Hari Vidyalaya, Mysore__]((https://harividyalaya.in/)) - *High School*
 
 
 ## 🖥 My List of Certifications
@@ -206,7 +206,27 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 🌱 [__Machine Learning with python (IBM)__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Sequence Models__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
+
+&emsp;&emsp; 🌱 [__Python for Data Science and Machine Learning__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
+
+&emsp;&emsp; 🌱 [__Data Science and Machine Learning Bootcamp with R__ ![]()
+
 &emsp;&emsp; 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Data Lifecycle in Production__  ![]()
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
+
+&emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]() 
+
+&emsp;&emsp; 🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
+
+&emsp;&emsp; 🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
 
 ## 🖥 My Competencies
@@ -232,17 +252,20 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 📃 [__A Comprehensive Guide to the K-Nearest Neighbors (k-NN) Algorithm__](https://medium.com/@sankethkaruturi09/a-comprehensive-guide-to-the-k-nearest-neighbors-k-nn-algorithm-eaaa90dc25e8)
 
+&emsp;&emsp; 📃 [__Introduction to CNN(Convolutional Neural Networks)__](https://medium.com/@sankethkaruturi09/introduction-to-cnn-convolutional-neural-networks-0612b2a6d638)
+
+&emsp;&emsp; 📃 [__Mathematics for Deep Learning Part 1: Linear Algebra — Sets, Scalars, Vectors, Matrices and Tensors__](https://medium.com/@sankethkaruturi09/mathematics-for-deep-learning-part-1-linear-algebra-sets-scalars-vectors-matrices-and-tensors-f391ccc69de7)
 
 
 ## 🖥 My Kaggle Profile 
 
 I'm very familiar with __Kaggle__ - a website that would help __machine learning__ and __deep learning engineers__ to explore the enomorous amount of data and perform machine learning and deep learning predictions. I take my time to go through the kaggle projects which gives me a good idea about the working of deep learning models. Furthermore, I would read others' code as a result of which I get a good understanding of the various ways in which a deep learning project could be implemented. Below is a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks. 
 
-&emsp;&emsp; 🔗 __https://www.kaggle.com/sankethkaruturi7__
+&emsp;&emsp; 🔗 https://medium.com/@sankethkaruturi09
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Deep Learning Resume__](https://github.com/sankethkaruturi/My-Portfolio/blob/0f09371361ee13a151344acd5456a33938c4df03/Sanketh%20Karuturi%20Resume.pdf)
+&emsp;&emsp; 📄 [__Sanketh_Karuturi Resume_2025__](https://github.com/sankethkaruturi/My-Portfolio/blob/0f09371361ee13a151344acd5456a33938c4df03/Sanketh%20Karuturi%20Resume.pdf)
 
 
 ## 🖥 My Contact Information
@@ -254,6 +277,14 @@ I'm very familiar with __Kaggle__ - a website that would help __machine learning
 &emsp;&emsp; ✍🏻 __Medium:__ __https://medium.com/@sankethkaruturi09__
 
 &emsp;&emsp; 💻 __Kaggle:__ __https://www.kaggle.com/sankethkaruturi7__
+
+## 📔📓My Inspiration😀😀:
+
+<img src = "https://github.com/sankethkaruturi/Images/blob/28f69d79b48ee59127ee33050fbd99cc3f89ff7a/Project%20Thumbnails/github%20inspiration%20image.jpg"/>
+
+My interest in machine learning and artificial intelligence began when I was in my final year of a Bachelor of Engineering program. I suggested to my teammates that we work on a machine learning project in __healthcare__, specifically using it to predict the chances of a person suffering from heart disease. We were able to download a dataset from [__Kaggle__](https://www.kaggle.com/) and implement machine learning models to make predictions. 
+
+The results on the test set were promising, and this sparked my interest in finding more ways to apply machine learning. I have since taken courses in machine learning, including Andrew Ng's __Machine Learning__ and __Deep Learning Specialization__ and have worked on various artificial intelligence projects in healthcare, academia, and the retail industry. Some of these projects involved data analysis and visualization to gain insights.
 
 
 ## 📄📉Blogs on Medium:
@@ -267,7 +298,43 @@ I'm very familiar with __Kaggle__ - a website that would help __machine learning
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with Data Visualization.
 
-🏚 [__Airbnb House Prices Prediction__]()
+🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/sankethkaruturi/Washington-Bike-Demand-Prediction.git) 
+
+* In this project, the demand for rental bikes was predicted using different machine learning and deep learning algorithms.
+*  Moreover, some of the useful features were __visualized__.
+*  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
+*  Subsequently, machine learning predictions were executed to ensure accurate outputs for the corresponding test set.
+
+<hr style="border:0.01px solid blue">
+
+🚙 [__Car Prices Prediction__](https://github.com/sankethkaruturi/Car-Price-Prediction.git) 
+
+* In this machine learning project, the prices of cars would be predicted based on features such as Horsepower (HP), Mileage, Make, and other features.
+* Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions.
+* Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
+
+<hr style="border:0.01px solid blue">
+
+🏦 [__Predicting Loan Default Using Machine Learning__](https://github.com/sankethkaruturi/Loan-Default-Prediction.git) 
+
+* It is important for banks to give loans to customers based on their ability to pay back a loan.
+* Occasionally, banks encounter situations where they grant loans to individuals who fail to repay the borrowed funds, including the accrued interest.
+* Machine Learning could be used in order to determine whether a loan must be given to a person, and this would help the financial institutions and banks to save money respectively.
+* In the project, various features such as income levels and the amount of loan taken were considered as features for predicting whether a person would be paying back a loan or not.
+* Since the data that was taken contained a lot of __NULL__ values, various imputation methods were used such as __mean__, __median__, and __mode__ imputation.
+
+<hr style="border:0.01px solid blue">
+
+🫀 [__Heart Disease Prediction Using Machine Learning and Deep Learning__](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)    
+
+* There are features that are important to predict heart disease in a patient such as __Blood Pressure (BP)__, __BMI__ and other factors.
+* Since doctors cannot take into account all the factors and suggest whether a person may or may not have heart disease, it is time to use machine learning and deep learning algorithms to the rescue.
+* In this machine learning project, various features such as __BMI__, __Cholesterol__, and other factors are considered for predicting the chances of a person suffering from heart disease.
+* Various machine learning models were used for the predictions and their __precision__, __recall__, and __accuracy__ were plotted respectively.
+
+<hr style="border:0.01px solid blue">
+
+🏚 [__Airbnb Home Prices Prediction__](https://github.com/sankethkaruturi/Airbnb-House-Price-Prediction-.git)
 
 * Features such as neighborhood, longitute and latitude could be used to determine the prices of __Airbnb__ houses for hosts.
 * __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for housing prices.
@@ -276,14 +343,21 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 <hr style="border:0.01px solid blue">
 
+[☎️ __Telco Customer Churn Prediction__](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)
+
+* Worked on predicting the __churn rate__ of customers based on factors such as age, location, and the type of service that was chosen by the customers. 
+* __Exploratory Data Analysis (EDA)__ was conducted to gain a comprehensive understanding of all the features and relationships in the dataset. Visualizations were used to effectively communicate insights.
+* A large number of metrics were considered such as accuracy, logistic loss, precision, recall, F1 score and many others. 
+* Vast proportion of machine learning models were used in the process of prediction of churn rate of customers such as Logistic Regression, Decision Tree Classifier, Gaussian Naive Bayes, Random Forest Classifier and XGBoost Regressor.
+* Finally, the best model was selected and was __hyperparameter tuned__ to get the best results on the data that the models have not seen before. 
+
 ## 🗣📣 My Natural Language Processing (NLP) projects
 
 <img src = "https://github.com/sankethkaruturi/Images/blob/390b56e9852ab8948ab08ba551f9a8a7cd7ffdd1/download%20(1).gif" width = "750"/>
 
-
 __Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
-📚 [__Predicting Readability of Texts Using Machine Learning__]   
+📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/sankethkaruturi/Predicting-Readability-of-Texts-Using-Machine-Learning.git)     
 
 * Text mining, data visualization, and machine learning can reveal useful insights in the vast amount of text that surrounds us, making it more actionable and useful.
 * In addition to this, understanding the difficulty of the text and whether it is at our level could give us good knowledge about the depth of the article.
@@ -293,7 +367,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 <hr style="border:0.01px solid blue">
 
-👹 [__Twitter Sentiment Analysis__]
+👹 [__Twitter Sentiment Analysis__](https://github.com/sankethkaruturi/Twitter-Sentiment-Analysis.git)   
 
 * In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of the direction of certain topics.
 * It is important to identify comments and extract key features from the text so that positive and negative comments could be separated.
@@ -301,7 +375,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 <hr style="border:0.01px solid blue">
 
-🗞 [__Fake News Prediction__]
+🗞 [__Fake News Prediction__](https://github.com/sankethkaruturi/Fake-News-Detection.git)
 
 * There has been a lot of __fake news__ that is spread to a large number of people on a regular basis, leading to misinformation.
 * With the aid of machine learning and data science, it is possible to extract insights from news.
@@ -311,6 +385,13 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 <hr style="border:0.01px solid blue">
 
+🔎 [__Automated Essay Scoring with Transformers__](https://github.com/sankethkaruturi/Automated-Essay-Scoring-AES-Using-Transformers.git)
+
+* __AI__ analyzes student essays for coherence, clarity, and relevance and offers feedback to improve writing skills.
+* Deep learning models (Transformers, LSTMs, GRUs, CNNs, and ML) detect visual cues, model coherence, relevance, and identify factors for effective writing in student essays.
+* Multiple approaches provide a comprehensive evaluation, empowering educators to give targeted __feedback__ to improve student writing skills.
+* Metrics like accuracy, precision, recall, F1 score, and QWK evaluate model performance for classifying essays.
+
 ## 👀👁 My Computer Vision Projects
 
 <img  src = "https://github.com/sankethkaruturi/Images/blob/592b8288d3ac30726f2fff1ee70844e8616720dc/download%20(2).gif" width = "750" />
@@ -319,7 +400,7 @@ __Computer Vision__ is a subset of artificial intelligence which gives the compu
 
 Computer vision offers immense potential and high demand due to its wide range of applications. The abundance of image and video data creates numerous opportunities for leveraging computer vision tools effectively. Here, I present a selection of intriguing projects I have personally undertaken in the field of computer vision.
 
-🎋 [__Wheat Disease Detection Using Transfer Learning__]
+🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/sankethkaruturi/Wheat-Disease-Detection-Using-Deep-and-Transfer-Learning.git) 
 
 * __Wheat__ is commonly available in various forms such as cereals and bread, but it is susceptible to diseases during production.
 * Manual identification of wheat diseases is time-consuming for farmers.
@@ -330,11 +411,38 @@ Computer vision offers immense potential and high demand due to its wide range o
 
 <hr style="border:0.01px solid blue">
 
-🔢 [__MNIST Digits Classification__] 
+🥄 [__Steel Defect Detection__](https://github.com/sankethkaruturi/Steel-Defect-Detection-.git)      
+
+* Steel industries produce large quantities of steel, but unnoticed defects can impact quality and lead to issues like **corrosion**.
+* Manual defect detection is time-consuming, necessitating the use of analysis and prediction mechanisms.
+* Convolutional Neural Networks (CNNs) can generate **predictions** based on past training examples.
+* Machine learning models, particularly deep learning models, save time and effort by predicting and addressing steel defects.
+
+<hr style="border:0.01px solid blue">
+
+🌾 [__Wheat Localization With Convolutional Neural Networks (CNNs)__](https://github.com/sankethkaruturi/Wheat-Localization-with-CNN-s.git)    
+* There are a lot of food products that we get from wheat.
+* Wheat is known as the common food staple that could be used to prepare different kinds of food items.
+* Since there are different types of wheat available, it is important to identify different kinds of wheat available.
+* In the machine learning project, images of different kinds of __wheat heads__ are taken and made available so that computer vision could be used to understand wheat heads and distinguish them.
+* Various computer vision algorithms are used to identify the wheat heads respectively. 
+
+<hr style="border:0.01px solid blue">
+
+🔢 [__MNIST Digits Classification__](https://github.com/sankethkaruturi/MNIST-Digits-Classification.git)   
 
 * MNIST data is quite popular as it is being used for beginning the journey with Convolutional Neural Networks.
 * The repository contains an MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross-entropy loss as the metric for getting the best configuration.
+
+<hr style="border:0.01px solid blue">
+
+🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/sankethkaruturi/Convolutional-Neural-Network-CNN-Implementation-using-Keras.git)
+
+* This is a simple project to implement Convolutional Neural Network and note its working.
+* Different layer sizes and different kernels are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
+* There are different kernel sizes considered and outputs are noted using a graph respectively.
+* By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
 
 
 ## 🕸🔨My Web Scraping Projects
@@ -380,9 +488,9 @@ __Web scraping__ is the process of extracting data from websites. This data can 
 
 ## 📐📑 My Work Experience 
 
-🏢👨‍🏫 [__AI/ML Apprentice Engineer__]() | [__BEML(Bharat Earth Movers Limited)__](https://www.bemlindia.in/) *[Dec 2020 - Nov 2021]*
+🏢👨‍🏫 [__Machine Learning Engineer__]() | [__Pentachrome Technologies Private Limited | Client : KPIT__](https://www.kpit.com/) *[Aug 2019 - Aug 2022]*
 
-- As a AI/ML Apprentice Engineer at BEML(Bharat Earth Movers Limited), I was influential in using __state-of-the-art__ machine learning and deep learning models to predict Machine failure based on past history. 
+- As a Machine Learning Engineer at Pentachrome Technologies, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict Machine failure based on past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for supply chain optimization. 
 - Finally, the explainable part of artificial intelligence was implemented with the use of various tools. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
 
@@ -399,6 +507,130 @@ __Web scraping__ is the process of extracting data from websites. This data can 
 I pursued a Master's degree in Computer Science at Oregon State University. It was a great experience where I had a solid understanding of working with machine learning and deep learning principles and paradigms. Furthermore, I was also involved in a project where we as a team had to build an Deep Neural Network in real time. It was a great experience where I learned deep learning principles and learned to work in sprints for a different set of tasks respectively. Furthermore, I also completed the data structures and analysis of algorithms course which allowed me to understand the time complexity of various algorithms which was also influential in my understanding of machine learning algorithms respectively. 
 
 <hr style="border:0.01px solid blue">
+
+## 🏅🎖 My List of Certifications
+
+<img src = "https://github.com/sankethkaruturi/Images/blob/9df1c2f17bfb8e6902286b808fc1415f1df4947b/Project%20Thumbnails/Reach%20For%20It%20Great%20Job%20GIF%20by%20AppExchange.gif" width = 750 />
+
+There are numerous machine learning and data science courses that I went through in order to gain a theoretical understanding of the concepts before their practical implementation in the form of projects. Below are some of my certifications and the contents covered in the course respectively.
+
+🌱 [__Python for Data Science and Machine Learning__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]() - This course is taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/). It is a course that gave me a very good understanding of Python. Important topics such as data frames, tuples, and lists were discussed in the course. The instructor does a good job of showing the practical implementation of the course along with theory. Therefore, this gave me a good solid understanding of Python which later helped me to build machine learning and deep learning algorithms. 
+
+🌱 [__Deep Learning Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]() - This is a really long certification consisting of 5 courses. The courses give a good understanding of deep learning. The courses are taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). Furthermore, there were videos that were being uploaded about interviews with pioneers in the field of Deep Learning. General tips and advice for machine learning projects are also laid out to ensure that beginners don't make the mistake of performing tasks that may not be required. Overall, I was able to get a good understanding of all the courses and they gave me a good idea about Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Deep Neural Networks, and Long-Short Term Memory (LSTM) networks. Below is the list of 5 courses that are present in the specialization. 
+
+&emsp;&emsp; 🍐 [__Neural Networks and Deep Learning__  ![]() - In the first course of the specialization, [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) concentrates on Logistic Regression, Shallow Neural Networks, and Deep Neural Networks for performing various computations and getting the results. He first explains the basics of how a neuron performs complex computations which would, in turn, lead to predictions. This course gave me a good understanding of the theory behind the working of activation units in neural networks. 
+
+&emsp;&emsp; 🍐 [__Structuring Machine Learning Projects__  ![]() - It is important to take measures to improve the performance of the deep learning models. In this second course under Deep Learning Specialization, structuring machine learning projects and understanding bias, variance, and practical applications of deep learning are taught by the instructor. Overall, it gave me a good foundation to apply my machine learning knowledge to practical real-time projects. 
+
+&emsp;&emsp; 🍐 [__Sequence Models__  ![]() - In the 3rd course of the specialization, Recurrent Neural Networks (RNNs), Word Embeddings, and Natural Language Processing Techniques are taught by the instructor. Moreover, he gives good clarity of different embedding techniques before giving the data to the deep learning models for predictions. Sequence Models and Attention Mechanism topics are also covered in the course. This gave me a good conceptual and practical understanding of deep learning and data science. 
+
+&emsp;&emsp; 🍐 [__Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization__ ![]() - When performing the deep learning computations, it is always a good idea to perform hyperparameter tuning in order to get the best results for our test set. In the course, the importance of regularization and hyperparameter tuning is taught by the instructor. Furthermore, various optimization algorithms are taught by the instructor. All-in-all, it was a good course that covered the important aspects of deep learning in a data science life cycle respectively. 
+
+&emsp;&emsp; 🍐 [__Convolutional Neural Networks__  ![]() - In the final course of the Deep Learning Specialization, the instructor teaches the foundations of Convolutional Neural Networks (CNNs). Also, Deep Convolutional Neural Networks along with case studies are included in the lectures. Finally, Face Recognition Technology and Neural Style Transfer are taught in the course, giving a good idea of their work. Hence, I was able to get a good amount of working knowledge in the field of data science and deep learning by going through all the courses and completing the specialization.
+
+🌱 [__Machine Learning by Stanford University__  ![]() - This is a course taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). I was able to understand the theory behind machine learning and deep learning models. Furthermore, he also gives practical advice on how machine learning could be used in different industries. The language that was used for programming was Octave. Overall, this gave me a good understanding of machine learning and I was able to enter the field starting with this course. 
+
+🌱 [__Data Science and Machine Learning Bootcamp with R__ ![]() - R is a programming language that could be used for statistical purposes. I was able to implement the machine learning models using R. There are various ways in which R programming language is used in different scenarios. The was taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/). It gave a good insight into using R for machine learning purposes. Most of the videos are focused on the practical implementation of the machine learning models respectively. 
+
+ 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]() - The specialization opens new frontiers in machine learning by teaching set of steps and methodologies in building highly scalable and robust end-to-end machine learning systems. A lot of new topics were covered in the space of MLOps such as model decay, latency, system requirements and many others. The framework used for end-to-end deployment was tensorflow extended (TFX), leading to efficient and highly scalable solutions to various ML problems. 
+
+&emsp;&emsp; 🍐 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]() - This course gives examples of how to use various strategies for building machine learning models in production. There are often challenges that go unnoticed if care is not taken when models are put to production. As a result, there is a degradation in their performance. This course does a good job in highlighting this scenario in great detail along with steps to be taken to reduce them.
+
+&emsp;&emsp; 🍐 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]() - The course introduces various components in the TensorFlow Extended (TFX) library that is used by end-to-end deployment. Components such as StatisticsGen, SchemaGen, ExampleValidator, and ExamplesGen are used which form the initial pipeline components of TensorFlow Extended. A lot of exercises were given to get a firmer understanding of these components in great detail in many scenarios.
+
+&emsp;&emsp; 🍐 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]() - This course teaches the best practices to follow when building data pipelines for machine learning. Depending on the size and complexity of the network, various set of practices must be followed in order for the models to work well in specific platforms.  
+
+&emsp;&emsp; 🍐 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]() - This course primarily deals with building and deploying machine learning models in production. Knowledge about various inference engines and serving mechanisms were explained and demonstrated well. Kubernetes and docker were used as important tools for ML deployment along with providing the right security features for different network topologies. 
+
+🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]() - Deep learning has been gaining traction in the recent decade. I could see that most of the projects on Kaggle are done with Tensorflow and Pytorch. The course is taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/) from Udemy. Most of the course is focused on the implementation of deep learning using Keras and Tensorflow. I got a good understanding of implementing various deep-learning projects using Keras and Tensorflow.
+
+🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![]() - This course teaches the fundamentals of Docker and explains them in detail. In addition, the instructor does a good job in explaining how Docker along with Flask and Apache could be used for deploying our machine learning models and making them highly scalable. It also talks about various errors that can occur during the production environment that is important to consider when trying to deploy machine learning models to a large number of clients and users. 
+
+🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]() - This course emphasizes the construction of time series models using up-to-date data from diverse sources. Participants gain a comprehensive understanding of cutting-edge models, including ARMA, ARIMA, SARIMA, SARIMAX, and Deep Neural Networks, for accurate forecasting. The course is highly regarded, offering clear explanations of the concepts and delivering valuable insights.
+
+## 🐎🏎 Competencies
+
+<img src = "https://github.com/sankethkaruturi/Images/blob/03b1f06d7875e87c149bedea379ed64c317112c6/Project%20Thumbnails/competencies.jpg" width = "750" />
+
+🦸 [__Leadership Skills__]() 
+
+* During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. 
+* It was a good opportunity for me to improve my leadership skills during the process. 
+* I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Communication Skills__]()
+
+* Communication skills are also important to become a good software engineer and a data scientist. 
+* Communication plays a very important role when it comes to letting others in the team know the progress, tracking the development of a project, and getting a good understanding of the overall flow of the team. 
+* I built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. 
+* Furthermore, I've gone through courses that are related to communication which would ensure that we are getting the best results when talking to a group of people or an audience respectively. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Team Work__]() 
+
+* When building projects and talking to people about the outcomes, it is important to have teamwork so that it would be a whole lot easier for a team to improve the performance of the company. 
+* That's the reason why companies such as Apple and Facebook are improving their revenue as a result of work from the team rather than individual efforts. 
+* Given my strong involvement in teams, I have actively participated in numerous team-based projects, honing my networking and team management skills along the way. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Curiosity__]()
+
+* Being creative when building applications would lead to better and more innovative products. 
+* Some of the most remarkable breakthroughs take place with curiosity in the field. 
+* I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Problem-solving Skills__]()
+
+* These are the skills that generally help in solving issues quickly and effectively. 
+* They are being learned as part of education or training. 
+* They are generally about familiarizing themselves with the common issues in various industries and also learning from experienced employees. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Time Management__]() 
+
+* During my tenure at [Pentachrome Technologies](), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. 
+* Therefore, I was involved in the process of organizing and planning various activities. 
+* As a result, there was very good productivity in the company by managing time and effectively using it for best practices. 
+
+## 😇😇 My Values:
+
+![](https://github.com/sankethkaruturi/Images/blob/4518418fb108faaed36c05c2c93ff0b7b4058df1/Project%20Thumbnails/latestgiffile.gif)
+
+There is a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every individual must be respected regardless of their conditions or their significance in society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in society. 
+
+## 🎼👨‍🎓 Key Learnings
+
+<img src = "https://github.com/sankethkaruturi/Images/blob/4ce95f1c3684d28ec7cd36619f33be43a5f934bf/Project%20Thumbnails/kelly-sikkema-ml1IgjV8OvY-unsplash.jpg" width = "750"/>
+
+During my machine learning journey, I had a good time learning important things and takeaways while implementing and executing various projects. As a result, I was able to learn iteratively and update my knowledge of the latest technologies and tools used in the process of building interesting AI-powered applications. Given below are some of the repositories that I have added that I felt had key ingredients in them that helped me excel in this data science journey. 
+
+📽 [__Jose Portilla's Reinforcement Learning Course__]() - One of the interesting things about the instructor [Jose Portilla](https://www.udemy.com/user/joseportilla/) is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential, especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanced concepts related to python. 
+
+
+## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
+
+<img src = "https://github.com/sankethkaruturi/Images/blob/17ccddf951df208fcce19a038a6d2ad5878acae5/Project%20Thumbnails/animation%20illustration%20GIF%20by%20Tony%20Babel.gif" width = "750"/>
+
+There is a large volume of research taking place in the field of machine learning and data science. There are newer and computationally efficient algorithms being developed by the likes of many companies and research institutes. I would like to share my thoughts on these latest machine learning trends and explain them well. 
+
+&emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) - Transformers have revolutionized the __natural language processing industry (NLP)__ where a given text is converted into a representation that takes into account the contextual information for all the possible words given as input and returns a vector with these weights and other dependencies. One interesting research area that has emerged is to use of these same transformers for computer vision tasks. __Convolutional Neural Networks__, CNNs for short, are currently being used to take into account different positions of the image and map them with their weights before making predictions. But if we could represent these vectors by using contextual dependencies, then vision transformers might be able to replace CNNs in the future. Currently, as the performance of vision transformers has not been significantly higher than the CNN models, there is no replacement for CNNs. However, as the complexity of vision transformers increases, there is a possibility that they might replace CNNs for image processing tasks.
+
+&emsp;&emsp; 📣🔊 [__LIME &__](https://homes.cs.washington.edu/~marcotcr/blog/lime/) [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) - __LIME__ stands for __Local Interpretable Model-agnostic Explanations__ while __SHAP__ stands for __Shapley Additive Explanations__. One of the challenges with using AI and machine learning, in general, is their lack of interpretability. Though there are models such as Random Forests and Decision trees that explain why they have come up with a particular outcome such as giving feature importance, they fail to account for local dependencies which means they do not give output for a particular query point but only provide explainability in terms of the entire dataset. Furthermore, there are other models that do not also offer these features. With the help of LIME and SHAP, it is possible to explain for a query point why a particular outcome is generated for any of the machine learning models at hand. Therefore, LIME and SHAP are good, and executing them is also a lot easier with the help of libraries.
+
+&emsp;&emsp; 📕📚 [__BERT &__](https://en.wikipedia.org/wiki/BERT_(language_model)) [__RoBERTa__](https://ai.facebook.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/) - __BERT__ stands for __Bidirectional Encoder Representations from Transformers__ while __RoBERTa__ stands for __Robustly Optimized BERT Pre-training Approach__. These models have been gaining popularity due to their extremely good performance in natural language processing tasks. They are basically transformers with bidirectional context vector representation. In other words, they take into account the context in terms of both the forward pass and the backward pass as well. This works extremely well due to the fact that representing each word based on the context of all the words in the document is basically a good way to understand human language. 
+
+&emsp;&emsp; 🔎🔦 [__FAISS &__](https://ai.facebook.com/tools/faiss/) [__ScaNN__](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) - When we are dealing with finding similar rows in our data and we have a very high dimensional representation of a vector, with traditional algorithms it takes a long time to find similarly if we use metrics such as __euclidean distance__ and __cosine similarity__. __Facebook Research__ has launched __FAISS__ that simplifies the process of searching for similarity and clustering of dense vectors. In the same light, __Google AI Research__ came up with __ScaNN__ which speeds up the overall process of computing the distance between various features and reduces the time complexity to a large extent. The outputs from these models contain vectors that represent a large amount of information from the input data. These are useful for building __good recommender systems__ where the items that are the most similar are recommended to a user along with many other applications as well.
+
+&emsp;&emsp; 🎧🔉 [__Audio Signal as a Spectrogram__](https://en.wikipedia.org/wiki/Spectrogram#:~:text=A%20spectrogram%20is%20a%20visual,may%20be%20called%20waterfall%20displays.) - We can define our audio signal in terms of a __spectrogram__ which is used in __audio processing__. One of the most insightful things that are currently done for deep learning is that an audio signal is converted to a spectrogram image which is later used with __convolutional neural networks (CNNs)__ for NLP tasks. Therefore, we are trying to pose the audio problem as a computer vision problem and get __higher accuracy__ and __better results__. __CNNs__ are known to perform especially well if we are able to give large amounts of image data. CNN along with transfer learning produces extremely good results. Therefore, it is improving the performance of NLP tasks such as __speech detection__ and many others. 
+
+&emsp;&emsp; 🤝🕸  [__Siamese Networks__](https://en.wikipedia.org/wiki/Siamese_neural_network) - Building __recommender systems__ whether it be __recommending items__, __movies__, or __songs__ with the help of deep neural networks can be a hard problem to define and solve respectively. With the help of __Siamese neural networks__, it is possible to use deep learning for recommending users various items as discussed above. __Siamese networks__ essentially take into account __2 different inputs__ and they have __2 networks__ that accept these inputs. The same weights are initialized to both networks and the __outputs__ from these two networks are combined together to get our predictions of how likely is the user going to like a particular item. Furthermore, it is also possible to perform __one-shot learning__ with these models which means that with few training examples, the model would learn to perform the best for the task at hand.
 
 
 ## 🎬🔚 Summary
