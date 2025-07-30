@@ -210,13 +210,13 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 🌱 [__Python for Data Science and Machine Learning__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
-&emsp;&emsp; 🌱 [__Data Science and Machine Learning Bootcamp with R__ ![] (https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
+&emsp;&emsp; 🌱 [__Data Science and Machine Learning Bootcamp with R__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
 &emsp;&emsp; 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
 
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
 
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Data Lifecycle in Production__  ![]()
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
 
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ]()
 
