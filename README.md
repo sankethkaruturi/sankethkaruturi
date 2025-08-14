@@ -20,7 +20,7 @@ In addition, I have a solid foundation—both theoretical and practical—in dev
 
 * *Discovery Analytics Inc, Atlanta, Georgia, USA*
 * *Oregon State University, Corvallis, Oregon, USA*
-* *Pentachrome Technologies Pvt Ltd, Bengaluru, Karnataka, India*
+* *Pentachrome Technologies Pvt Ltd, Client : KPIT, Bengaluru, Karnataka, India*
 * *AEQUS Aerospace, Belagavi, Karnataka, India*
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
