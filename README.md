@@ -152,6 +152,11 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-:| :-:| 
 | [<img src = "https://github.com/sankethkaruturi/Images/blob/8f6e2619029165d3be3de260c24b9dc8df19a88c/Project%20Thumbnails/WL.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Wheat-Localization-with-CNN-s.git)| [<img src="https://github.com/sankethkaruturi/Images/blob/8cde2559ae4ef2a0859500f51172ba1aa6ea4f13/Project%20Thumbnails/STDFD.jpg" height = 300 width = 500/>](https://github.com/sankethkaruturi/Steel-Defect-Detection-.git)|
 
+<h2 align = "center"> 🖥 My SQL Projects</h2> 
+
+| 🚕 [Cab Reservation System](https://github.com/sankethkaruturi/Cab-Reservation-System.git)|
+| :-: |
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/ee2cb9c49bb023d940022a46bfb5d76ec0f9a2e9/Project%20Thumbnails/taxigif.gif" width = 500 height = 300/>](https://github.com/sankethkaruturi/Cab-Reservation-System.git)|
 
 <hr style="border:0.01px solid blue">
 
