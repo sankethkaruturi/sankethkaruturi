@@ -110,6 +110,10 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-:| 
 | [<img src = "https://github.com/sankethkaruturi/Images/blob/63f99a65f1640ada7741890d8295933fad96ff35/ant-rozetsky-TXzdrCTdggE-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Medico-Health-Assistant-ChatBot.git)| 
 
+| 👕 [Fashion GAN(Generative Adversarial Networks) ](https://github.com/sankethkaruturi/Fashion-GAN.git)|
+| :-:| 
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/1b8a3784d00b45b2210aaf683f1e9482e93fa047/Project%20Thumbnails/FashionGAN.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Fashion-GAN.git)| 
+
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
 | 🏚 [Airbnb House Prices Prediction](https://github.com/sankethkaruturi/Airbnb-House-Price-Prediction-.git)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
