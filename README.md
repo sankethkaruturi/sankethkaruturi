@@ -128,9 +128,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Healthcare Projects </h2> 
 
-| 💊 [Medicine Recommendation System](https://github.com/sankethkaruturi/Medicine-Recommendation-System-Using-Machine-Learning.git)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
+| 💊 [Medicine Recommendation System](https://github.com/sankethkaruturi/Medicine-Recommendation-System-Using-Machine-Learning.git)| 🧠 [Brain Tumor Detection](https://github.com/sankethkaruturi/Brain-Tumor-Detection-Using-Deep-Learning.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/a5746c256803f6fa92a845582790989a7d5725fd/medicine.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Medicine-Recommendation-System-Using-Machine-Learning.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/401ad2d9b93f7224ed595706d58070efc5c2fadb/markus-spiske-BGq8mTlzL6g-unsplash.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Telco-Customer-Churn-Prediction.git)|
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/a5746c256803f6fa92a845582790989a7d5725fd/medicine.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Medicine-Recommendation-System-Using-Machine-Learning.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/5b79a9ac519c795b79050a36996935841d8c874e/Project%20Thumbnails/Brain%20Tumor.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Brain-Tumor-Detection-Using-Deep-Learning.git)|
 
 | 🏦 [Predicting Loan Default](https://github.com/sankethkaruturi/Loan-Default-Prediction.git)| 🫀 [Heart Disease Prediction](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)|
 | :-:| :-:| 
