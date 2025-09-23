@@ -132,9 +132,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-:| :-:| 
 | [<img src = "https://github.com/sankethkaruturi/Images/blob/a5746c256803f6fa92a845582790989a7d5725fd/medicine.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Medicine-Recommendation-System-Using-Machine-Learning.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/5b79a9ac519c795b79050a36996935841d8c874e/Project%20Thumbnails/Brain%20Tumor.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Brain-Tumor-Detection-Using-Deep-Learning.git)|
 
-| 🏦 [Predicting Loan Default](https://github.com/sankethkaruturi/Loan-Default-Prediction.git)| 🫀 [Heart Disease Prediction](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)|
+| 🩸 [Diabetes Prediction](https://github.com/sankethkaruturi/Diabetes-Prediction-Using-Machine-Learning.git)| 🎗 [Breast Cancer Prediction](https://github.com/sankethkaruturi/Breast-Cancer-Prediction-Using-Machine-Learning.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/bc6a2d5d1d26ef40a66334fcc59ae37fc9432208/Loan_default_prediction.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Loan-Default-Prediction.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/96e50dfae3f39dcb55ce1777282a696d9e134990/Heart_disease_Prediction.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Heart-Disease-Prediction.git)
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/fbd9009ece639ac65594b97b98461d1fc97ff3cf/Project%20Thumbnails/diabetes.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Diabetes-Prediction-Using-Machine-Learning.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/b03aa59384bd881d14b222a36db8832f69e3ce3f/Project%20Thumbnails/breast_cancer.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Breast-Cancer-Prediction-Using-Machine-Learning.git)
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/sankethkaruturi/Washington-Bike-Demand-Prediction.git)| 🚙 [Car Prices Prediction](https://github.com/sankethkaruturi/Car-Price-Prediction.git)|
 | :-:| :-:| 
