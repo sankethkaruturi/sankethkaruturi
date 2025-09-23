@@ -136,9 +136,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-:| :-:| 
 | [<img src = "https://github.com/sankethkaruturi/Images/blob/fbd9009ece639ac65594b97b98461d1fc97ff3cf/Project%20Thumbnails/diabetes.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Diabetes-Prediction-Using-Machine-Learning.git)| [<img src = "https://github.com/sankethkaruturi/Images/blob/b03aa59384bd881d14b222a36db8832f69e3ce3f/Project%20Thumbnails/breast_cancer.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Breast-Cancer-Prediction-Using-Machine-Learning.git)
 
-| 🚴‍ [Washington Bike Demand Prediction](https://github.com/sankethkaruturi/Washington-Bike-Demand-Prediction.git)| 🚙 [Car Prices Prediction](https://github.com/sankethkaruturi/Car-Price-Prediction.git)|
+| 🍷 [Liver Disease Prediction](https://github.com/sankethkaruturi/Liver-Disease-Prediction-Using-Machine-Learning.git)| 🚙 [Car Prices Prediction](https://github.com/sankethkaruturi/Car-Price-Prediction.git)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sankethkaruturi/Images/blob/bdaba15a7d48fc1ba574c90ac48f928119dd80e9/bike_demand_image.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Washington-Bike-Demand-Prediction.git)| [<img src="https://github.com/sankethkaruturi/Images/blob/0d10d3cd41a25ae5d9da916c0aabada35fe38616/car_price_prediction_image.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Car-Price-Prediction.git)
+| [<img src = "https://github.com/sankethkaruturi/Images/blob/aad752d77376587a7e9f263ff5912f33ce5c1033/Project%20Thumbnails/Liver.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Liver-Disease-Prediction-Using-Machine-Learning.git)| [<img src="https://github.com/sankethkaruturi/Images/blob/0d10d3cd41a25ae5d9da916c0aabada35fe38616/car_price_prediction_image.jpg" width = 500 height = 300/>](https://github.com/sankethkaruturi/Car-Price-Prediction.git)
 
 <hr style="border:0.01px solid blue">
 
