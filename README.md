@@ -18,10 +18,9 @@ In addition, I have a solid foundation—both theoretical and practical—in dev
 
 🔭 Below are some of the companies I have worked:
 
-* *Discovery Analytics Inc, Atlanta, Georgia, USA*
-* *Oregon State University, Corvallis, Oregon, USA*
-* *Pentachrome Technologies Pvt Ltd, Client : KPIT, Bengaluru, Karnataka, India*
-* *AEQUS Aerospace, Belagavi, Karnataka, India*
+* *Corpay, Brentwood, Tennessee, USA*
+* *US Bank, Irving, Texas, USA*
+* *Rithdi Technologies, India*
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
