@@ -285,7 +285,7 @@ I'm very familiar with __Kaggle__ - a website that would help __machine learning
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Sanketh_Karuturi Resume_2025__](https://github.com/sankethkaruturi/My-Portfolio/blob/0f09371361ee13a151344acd5456a33938c4df03/Sanketh%20Karuturi%20Resume.pdf)
+&emsp;&emsp; 📄 [__Sanketh_Karuturi Resume_2026__](https://github.com/sankethkaruturi/My-Resume/blob/e3a08270893e7eab6dd6417508b936035dbb36b1/Sanketh_Karuturi_DS_GenAI_Resume.pdf)
 
 
 ## 🖥 My Contact Information
