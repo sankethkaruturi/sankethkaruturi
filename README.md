@@ -18,7 +18,7 @@ In addition, I have a solid foundation—both theoretical and practical—in dev
 
 🔭 Below are some of the companies I have worked:
 
-* *Corpay, Brentwood, Tennessee, USA*
+* *Visa, Austin, Texas, USA*
 * *US Bank, Irving, Texas, USA*
 * *Rithdi Technologies, India*
 
